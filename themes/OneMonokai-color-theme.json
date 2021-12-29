@@ -75,6 +75,20 @@
     "titleBar.inactiveBackground": "#282C34",
     "titleBar.inactiveForeground": "#6B717D"
   },
+  "semanticHighlighting": true,
+  "semanticTokenColors": {
+    "method": "#c5c8ce",
+    "variable": "#c5c8ce",
+    "namespace": "#abb2bf",
+    "enum": "#56b6c2",
+    "type":"#56b6c2",
+    "typeAlias":  "#56b6c2",
+    "interface": "#56b6c2",
+    "enumMember": "#61afef",
+    "*.mutable": {
+      "fontStyle": "underline"
+    }
+  },  
   "tokenColors": [
     {
       "name": "Comment",
