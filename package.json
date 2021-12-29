@@ -1,8 +1,8 @@
 {
-    "name": "one-monokai",
+    "name": "one-monokai-semantic",
     "displayName": "One Monokai Theme",
     "description": "A cross between Monokai and One Dark theme",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "publisher": "cheapeone",
     "engines": {
         "vscode": "^1.13.0"
