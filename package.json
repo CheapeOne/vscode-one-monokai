@@ -32,7 +32,9 @@
         "Vscode",
         "Theme",
         "Onedark",
-        "Monokai"
+        "Monokai",
+        "Light",
+        "Cheape"
     ],
     "author": "Chris Cheape <cheapeone@gmail.com>",
     "license": "MIT"
