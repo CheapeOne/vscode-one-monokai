@@ -1,5 +1,5 @@
 {
-  "name": "One Monokai Cheape (Light)",
+  "name": "One Monokai (Light)",
   "type": "light",
   "colors": {
     "focusBorder": "#2188ff",
@@ -242,7 +242,7 @@
       "name": "Built-in constant",
       "scope": "constant.language",
       "settings": {
-        "foreground": "#26abba"
+        "foreground": "#00acbc"
       }
     },
     {
@@ -252,7 +252,7 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#26abba"
+        "foreground": "#00acbc"
       }
     },
     {
@@ -291,7 +291,7 @@
       "name": "Types",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#26abba"
+        "foreground": "#00acbc"
       }
     },
     {
@@ -407,7 +407,7 @@
         "entity.name.tag.id"
       ],
       "settings": {
-        "foreground": "#26abba"
+        "foreground": "#00acbc"
       }
     },
     {
@@ -421,7 +421,7 @@
       "name": "Library constant",
       "scope": "support.constant",
       "settings": {
-        "foreground": "#26abba"
+        "foreground": "#00acbc"
       }
     },
     {
@@ -431,14 +431,14 @@
         "support.variable"
       ],
       "settings": {
-        "foreground": "#26abba"
+        "foreground": "#00acbc"
       }
     },
     {
       "name": "Json Property",
       "scope": "support.dictionary.json",
       "settings": {
-        "foreground": "#26abba"
+        "foreground": "#00acbc"
       }
     },
     {
@@ -466,7 +466,7 @@
         "entity.other.attribute-name.pseudo-element.sass"
       ],
       "settings": {
-        "foreground": "#26abba"
+        "foreground": "#00acbc"
       }
     },
     {
@@ -490,7 +490,7 @@
         "variable.sass"
       ],
       "settings": {
-        "foreground": "#26abba"
+        "foreground": "#00acbc"
       }
     },
     {
@@ -526,7 +526,7 @@
         "function.sass"
       ],
       "settings": {
-        "foreground": "#26abba"
+        "foreground": "#00acbc"
       }
     },
     {
@@ -548,7 +548,7 @@
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "background": "#26abba",
+        "background": "#00acbc",
         "foreground": "#F8F8F0"
       }
     },
@@ -556,7 +556,7 @@
       "name": "JSON String",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#26abba"
+        "foreground": "#00acbc"
       }
     },
     {
@@ -600,7 +600,7 @@
     {
       "scope": "constant.numeric.line-number.find-in-files - match",
       "settings": {
-        "foreground": "#26abbaA0"
+        "foreground": "#00acbcA0"
       }
     },
     {
@@ -678,7 +678,7 @@
         "markup.raw.block.markdown"
       ],
       "settings": {
-        "foreground": "#26abba"
+        "foreground": "#00acbc"
       }
     },
     {
