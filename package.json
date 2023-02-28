@@ -2,7 +2,7 @@
     "name": "one-monokai-light",
     "displayName": "One Monokai Light Theme",
     "description": "A cross between Monokai and One Dark theme... but light version!",
-    "version": "0.6.2",
+    "version": "1.0.0",
     "publisher": "cheapeone",
     "engines": {
         "vscode": "^1.13.0"
