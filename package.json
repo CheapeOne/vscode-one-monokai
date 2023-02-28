@@ -1,7 +1,7 @@
 {
-    "name": "one-monokai-light",
-    "displayName": "One Monokai Light Theme",
-    "description": "A cross between Monokai and One Dark theme... but light!",
+    "name": "one-monokai-cheape",
+    "displayName": "One Monokai Cheape Theme",
+    "description": "A cross between Monokai and One Dark theme... with light version!",
     "version": "0.6.2",
     "publisher": "cheapeone",
     "engines": {
@@ -14,9 +14,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Monokai (Light)",
+                "label": "One Monokai Cheape (Light)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/OneMonokaiLight-color-theme.json"
+                "path": "./themes/one-monokai-cheape-light.json"
             }
         ]
     },
