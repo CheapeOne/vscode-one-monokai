@@ -1,8 +1,8 @@
 {
     "name": "one-monokai-light",
     "displayName": "One Monokai Light Theme",
-    "description": "A cross between Monokai and One Dark theme... but light version!",
-    "version": "1.0.0",
+    "description": "A cross between Monokai and One Dark theme... with extended light and dark versions!",
+    "version": "1.0.1",
     "publisher": "cheapeone",
     "engines": {
         "vscode": "^1.13.0"
@@ -13,6 +13,11 @@
     "icon": "icon.png",
     "contributes": {
         "themes": [
+            {
+                "label": "One Monokai (Dark)",
+                "uiTheme": "vs",
+                "path": "./themes/one-monokai-dark.json"
+            },
             {
                 "label": "One Monokai (Light)",
                 "uiTheme": "vs",
@@ -34,6 +39,7 @@
         "Onedark",
         "Monokai",
         "Light",
+        "Dark",
         "Cheape"
     ],
     "author": "Chris Cheape <cheapeone@gmail.com>",
